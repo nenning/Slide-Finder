@@ -60,6 +60,12 @@ The configuration file `app.config` defines the paths to your PowerPoint files. 
 
 ---
 
+## 💡 Acknowledgment
+
+This tool uses code (probably an old version) from [xnafan's Simple Image Comparison](https://github.com/xnafan/Simple-image-comparison), which provides efficient image comparison functionality.
+
+---
+
 ## 🤝 Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests via the [Issues tab](https://github.com/nenning/Slide-Finder/issues).
